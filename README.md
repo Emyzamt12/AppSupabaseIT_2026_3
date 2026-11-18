@@ -17,7 +17,7 @@ Aquí puedes ver una captura de cómo luce la aplicación en funcionamiento:
   <img src="WhatsApp Image 2026-11-18 at 09.46.04.jpeg" alt="Captura de pantalla de la App" width="300">
 </p>
 
-*(Nota: Asegúrate de que el nombre del archivo en la etiqueta `src` coincida exactamente con el nombre de la imagen que subiste a este repositorio).*
+
 
 ## 🛠️ Tecnologías Utilizadas
 
